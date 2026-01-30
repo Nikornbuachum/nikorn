@@ -1,6 +1,4 @@
-//true = exit game
-//flase = oke game
-
 {
-  "exit": true
+  "exit": false,
+  "maintenance_message": "Server Online"
 }
