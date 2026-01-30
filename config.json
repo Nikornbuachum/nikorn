@@ -1,3 +1,7 @@
 {
- "exit": true,
+  "config_version": 1,
+  "exit": false,
+  "maintenance_message": "Server Online",
+  "min_version": "1.6.1",
+  "force_update": false
 }
