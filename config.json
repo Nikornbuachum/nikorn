@@ -1,7 +1,8 @@
 {
   "config_version": 1,
-  "exit": true,
-  "maintenance_message": "Server Maintenance กรุณารอสักครู่",
+  "server_status": "online",
+  "exit": false,
+  "maintenance_message": "Server Online",
   "min_version": "1.6.1",
   "force_update": false
 }
