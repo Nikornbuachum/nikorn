@@ -1,4 +1,4 @@
 {
   "exit": true,
-  "maintenance_message": "Server Maintenance กรุณารอสักครู่"
+  "maintenance_message": "Server Maintenance กรุณารอสักครู่1"
 }
