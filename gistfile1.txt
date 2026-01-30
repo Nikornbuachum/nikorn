@@ -1,4 +1,4 @@
 {
-  "exit": false,
-  "maintenance_message": "Server Online"
+  "exit": true,
+  "maintenance_message": "Server Maintenance กรุณารอสักครู่"
 }
