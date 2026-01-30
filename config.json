@@ -1,6 +1,6 @@
 {
   "config_version": 1,
-  "server_status": "offline"
+  "server_status": "offline",
   "exit": false,
   "maintenance_message": "Server Online",
   "min_version": "1.6.1",
