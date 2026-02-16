@@ -1,3 +1,4 @@
 {
-  "exit": true
+  "exit": false,
+  "message": "Hello"
 }
