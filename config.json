@@ -1,4 +1,4 @@
 {
-  "exit": false,
-  "message": "Hello"
+  "exit": true,
+  "message": "แอปถูกปิดปรับปรุง กรุณากลับมาใหม่ภายหลัง"
 }
